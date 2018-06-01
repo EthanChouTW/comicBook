@@ -1,5 +1,12 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+    "description": "作品僅供於學術交流，請與24小時之內刪除",
+    "name": "趙雲有兩個",
+    "slug": "fire-phoenix",
+    "icon": "./assets/hex.png",
+    "splash": {
+      "image": "./assets/splash.png"
+    }
   }
 }
