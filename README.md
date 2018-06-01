@@ -3,12 +3,12 @@
 https://expo.io/@ethanchou/fire-phoenix
 
 * With standalone app:
-for android user you can download directly with above link
-ios user u have to publish your own by [Publishing to Expo's React Native Community](#Publishing-to-Expo's-React-Native-Community) 
+* for android user you can download directly with above link
+* ios user u have to publish your own by [Publishing to Expo's React Native Community](#Publishing-to-Expo's-React-Native-Community) 
 
-#### How do I get set up?
+### How do I get set up?
 
-* root folder
+root folder
 * `$brew install node`
 * `$brew install watchman`
 * `$npm install -g yarn`
