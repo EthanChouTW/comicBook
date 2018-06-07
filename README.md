@@ -2,6 +2,8 @@
 
 https://expo.io/@ethanchou/fire-phoenix
 
+<img src="https://user-images.githubusercontent.com/11582478/41092799-47df83e8-6a7c-11e8-9837-34fb112a7596.png" width="320" />
+
 <b>Standalone app:</b>
 * for android user you can download directly with above link
 * ios user u have to publish your own by [Publishing to Expo's React Native Community](#Publishing-to-Expo's-React-Native-Community) 
